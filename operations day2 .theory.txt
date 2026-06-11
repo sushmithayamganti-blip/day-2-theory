@@ -1,0 +1,63 @@
+# day-2-theory
+1.OPERATORS:
+     Operators are special symbols used to perform operations on variables and values
+2.Types Of Operators:
+    Arithmetic Operators
+    Relational Operators
+    Assignment Operators
+    Logical Operators
+    Bitwise Operators
+    Identity Operators
+    Membership Operators
+
+3.Arithmetic Operators: Used to perform mathematical operations.
++	Addition	10 + 5 = 15
+-	Subtraction   	10 - 5 = 5
+*	Multiplication	10 * 5 = 50
+/	Division      	10 / 5 = 2.0
+%	Modulus         10 % 3 = 1
+//Floor Division	10 //3 = 3
+**	Exponent     	2 ** 3 = 8
+  
+4.Relational Operators: Used to compare two values and return True or False.
+==	 Equal to	              5 == 5	True
+!=	 Not Equal to	              5 != 3	True
+>	   Greater than	              5 > 3	True
+<    Less than	                      5 < 3	False
+>=   Greater than or Equal to	      5 >= 5	True
+<=	 Less than or Equal to	      5 <= 3	False
+
+5.Assignment operators:An assignment operator is an operator used to assign a value to a variable
+
+=	a = 10	
++=      a += 5	
+-=	a -= 5	
+*=    	a *= 2	
+/=     	a /= 2	
+%=    	a %= 2	
+//=	a //= 2	
+**=   	a **= 2	
+
+6..Logical Operators: Used to combine or negate conditions.
+and  5>2 and 3<4
+or   5<2 or 3<4
+no   not(5>2)
+
+7.Bitwise Operators: Perform operations on the binary representation of integers.
+&  	AND
+|       OR
+^  	XOR
+~ 	NOT
+<<	Left Shift
+>>	Right Shift
+
+8.Identity Operators: Check whether two variables refer to the same object.
+is	 [Returns True if both variables refer to the same object]
+is not   [Returns True if they are different objects]
+
+9.Membership Operators: Check whether a value exists in a sequence.
+in      [Value exists]
+not in  [Value does not exist]
+
+9. Operator: A symbol that performs an operation on one or more operands.
+10.Operand: The value or variable on which an operator performs an operation.     
