@@ -45,17 +45,17 @@ no   not(5>2)
 
 7.Bitwise Operators: Perform operations on the binary representation of integers.
 &  	AND
-|	  OR
+|    OR
 ^  	XOR
 ~ 	NOT
 <<	Left Shift
 >>	Right Shift
 8.Identity Operators: Check whether two variables refer to the same object.
 is	    [Returns True if both variables refer to the same object]
-is not	[Returns True if they are different objects]
+is not   [Returns True if they are different objects]
 9.Membership Operators: Check whether a value exists in a sequence.
 in      [Value exists]
-not in	[Value does not exist]
+not in  [Value does not exist]
 
 9. Operator: A symbol that performs an operation on one or more operands.
 10.Operand: The value or variable on which an operator performs an operation.     
